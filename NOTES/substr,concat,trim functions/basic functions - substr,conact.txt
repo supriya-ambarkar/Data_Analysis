@@ -1,0 +1,36 @@
+SUBSTRING:
+-----------
+
+SUBSTRING() FUNCTION returns the position of string or binary value from  complete string.
+
+
+substring() or substr() - we can use in snowflakes.
+
+syntax
+------
+
+
+SELECT SUBSTRING('TEXT',START,END);
+
+TRIM():
+------
+syntax:: select trim('text', 'the character u need to trim'
+
+TO REMOVE SPACES WE USE THIS FUNCTION
+
+
+ltrim = lefttrim:
+========
+remove for left hand side
+
+rtrim = right trim:
+=======
+remove from right trim
+
+----------------------------------------------------------------------------------------------
+
+CONCAT() OR ||: IS SAME TO COMBINE THE TWO COLUMN NAMES OR TEXT
+---------------
+
+
+

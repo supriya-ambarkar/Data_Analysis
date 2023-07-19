@@ -1,0 +1,23 @@
+04 DEC 2022
+
+CASE STATEMENT:
+--------------
+-> A series of conditions are evaluated in sequence.
+
+when condition is true - evaluation stops and return that value
+ if no condition is true(fails) - result after else is returned if it is there
+																		else NULL is returned.
+Syntax:
+--------
+
+CASE
+	WHEN <CONDITION 1> THEN <RESULT 1>
+	[WHEN <CONDITION 2> THEN <RESULT 2>]
+	[...]
+	[ELSE <RESULT 3>]
+END
+
+->We can also give expressions in Case statements.
+->Condition should evaluate boolean value(True, False, NULL)
+
+CREATED VIEWS AFTER CLEANING THE DATA..

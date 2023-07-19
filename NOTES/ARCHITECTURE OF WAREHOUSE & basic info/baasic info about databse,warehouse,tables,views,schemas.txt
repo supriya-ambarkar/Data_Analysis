@@ -1,0 +1,66 @@
+DEC 3 - 2022
+
+**ARCHITECTURE OF WAREHOUSE:
+----------------------------
+
+WAREHOUSE
+	|
+DATABASE
+	|
+SCHEMAS
+	|
+VIEWS 
+	|
+TABLES
+
+-> Warehouse provides required resources, such as CPU, Memory, and temporary storage,
+to perform the following operations in Snowflake.
+
+-> DataBase is an organized collection of organized data, also called Structured Data.
+It can be accessed or stored in a computer system.
+	Each Database consists of one or more schemas, which are logical groupings of database objects, such as tables and views.
+
+Different types of Databases:
+-------------------------------
+
+1. Relational Database => made of set of table with data that fits into predefines category.s 
+2. Distributed Database => database in which portions of database are stored in multiple physical locations and in which processing is dispersed or replicated among different points in a network.
+	
+Snowflake is cloud technology and it is combination of both databases.
+
+SCHEMA:
+-------
+->Collection of database objects like tables, triggers,stored procedures,etc
+->Each schema belongs to single database.
+->Database and schemas are used to organize data stored in Snowflake.
+
+VIEWS:
+-------
+
+->Subsset of databse that is generated from user query and gets stored as permanent object.
+
+TABLES:
+-------
+
+Tables are databse objects that contain all the data in a database.
+
+LIKE KEYWORD:
+-------------
+
+a% - any values that starts with a
+%a - any values that ends with a
+%word% - any values that has word in any position
+
+_a% - any values that has a in teh second position
+a_% - any values that starts with "a" and are atleast 2 chracters in length
+a__% - any values that starts with "a" and are atleast 3 chracters in length
+a%r - any values that starts with a and ends with r
+
+IN KEYWORD:
+------------
+
+IN - OR (CATEGORICAL DATA)
+BETWEEN IS USED IN RANGES(CONTINOUS DATA)
+
+AND - A AND B MEANS = BOTH ARE PRESENT
+OR - A OR B MEANS = EITHER A IS PRESENT OR B IS PRESENT.
