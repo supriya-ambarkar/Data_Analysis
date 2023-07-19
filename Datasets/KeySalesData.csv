@@ -1,0 +1,32 @@
+ClientID,ClientName,Address1,Address2,Town,Country,PostCode,PostCode2,OuterPostode,CountryID,ClientType,ClientSize,ClientSince,IsCreditWorthy,IsDealer
+1,Aldo Motors,4_ Scale Street,NULL,Uttoxeter,Staffs,ST17 99RZ,East Midlands,ST,1,Wholesaler,Large,04-01-1998 00:00,1,1
+2,Honest John,99a Baker Street,NULL,London,,NSW1 1A,Greater London Authority,EC,1,Dealer,Large,01-01-2000 00:00,0,0
+3,Bright Orange,17_Arcadia Way,NULL,Birmingham,NULL,B1 50AZ,West Midlands,B,1,Dealer,Large,01-04-2005 00:00,0,0
+4,Cut'n'Shut,Grange Avenue,NULL,Manchester,NULL,M1 5AZ,North West,M,1,Dealer,Small,01-01-2010 00:00,1,0
+5,Wheels'R'Us,Buckingham Drive,NULL,London,NULL,SE1 4YY,Greater London Authority,NE,1,Dealer,Large,31-05-2007 00:00,1,1
+6,Les Arnaqueurs,33_ Rue Des Bleus,NULL,Paris,NULL,75010,NULL,NULL,2,Dealer,Large,15-02-2003 00:00,1,0
+7,Crippen & Co,1012 Princess Street,NULL,Glasgow,NULL,G1 8GH,NULL,NULL,1,Dealer,Large,15-10-2009 00:00,1,0
+8,Rocky Riding,5205 108th Ave,NULL,New York,New York,NULL,NULL,NY,3,Dealer,Large,15-10-2009 00:00,1,0
+9,Voitures Diplomatiques S.A.,NULL,NULL,Geneva,NULL,NULL,NULL,NULL,6,Wholesaler,Large,15-10-2009 00:00,1,0
+10,Karz,NULL,NULL,Stuttgart,NULL,NULL,NULL,NULL,4,Dealer,Small,31-05-2006 00:00,1,1
+11,Costa Del Speed,NULL,NULL,Madrid,NULL,NULL,NULL,NULL,5,Dealer,Small,31-05-2012 00:00,1,0
+12,Olde Englande,NULL,NULL,Shrewsbury,NULL,SY10 9AX,West Midlands,TF,1,Dealer,Small,31-05-2012 00:00,1,0
+13,Impressive Wheels,NULL,NULL,Liverpool,NULL,L5 9ZZ,North West,L,1,Wholesaler,Large,31-05-2007 00:00,1,0
+14,Smooth Riders,NULL,NULL,Telford,NULL,TF6 9RR,West Midlands,NULL,1,Dealer,Large,31-05-2008 00:00,1,0
+15,Luxury Rentals,NULL,NULL,Gloucester,NULL,GL7 9AS,South West,GL,1,Dealer,Small,31-05-2011 00:00,1,1
+16,Premium Motor Vehicles,NULL,NULL,Newcastle upon Tyne,NULL,NE3 3SS,North East,NE,1,Dealer,Small,31-05-2009 00:00,1,0
+17,Chateau Moi,NULL,NULL,Lyon,NULL,69001,NULL,NULL,2,Dealer,NULL,01-01-2012 00:00,1,0
+18,Vive la Vitesse!,NULL,NULL,Marseille,NULL,13002,NULL,NULL,2,Dealer,NULL,01-01-2012 00:00,1,0
+19,Carosse Des Papes,NULL,NULL,Avignon,NULL,84000,NULL,NULL,2,Wholesaler,NULL,01-01-2012 00:00,1,0
+20,Three Country Cars,NULL,NULL,Basle,NULL,NULL,NULL,NULL,6,Dealer,NULL,01-01-2012 00:00,1,1
+21,Jungfrau,NULL,NULL,Zurich,NULL,NULL,NULL,NULL,6,Wholesaler,NULL,01-01-2012 00:00,1,0
+22,Ambassador Cars,11 Times Square,NULL,Bellevue,Washington,NULL,NULL,WA,3,Dealer,Small,04-01-2013,1,0
+23,Embassy Motors,57595 Technology Way,NULL,Denver,Colorado,NULL,NULL,CO,3,Dealer,Small,04-01-2013,1,0
+24,Style N Ride,5404 Wisconsin Ave,NULL,Chevy Chase,Maryland,NULL,NULL,MA,3,Dealer,Large,04-01-2013,1,0
+25,BritWheels,1414 NW Northrup Street,NULL,Portland,Oregon,NULL,NULL,OR,3,Dealer,Large,04-01-2013,1,1
+26,Sporty Types Corp,13550 Market Street,NULL,San Francisco,California,NULL,NULL,CA,3,Wholesaler,Large,04-01-2013,1,0
+27,Tweedy Wheels,One Oxford Center,NULL,Cambridge,Massahussets,NULL,NULL,MA,3,Wholesaler,Small,04-01-2013,1,0
+28,Union Jack Sports Cars,9900 Corporate Campus Dr,NULL,Louisville,Kentucky,NULL,NULL,KY,3,Dealer,Small,04-01-2013,1,0
+29,Buckingham Palace Car Services,4605 Duke Drive,NULL,Mason,Ohio,NULL,NULL,OH,3,Wholesaler,Large,04-01-2013,1,0
+30,British Luxury Automobile Corp,2555 Meridian Blvd,NULL,Franklin,Tennesee,NULL,NULL,TN,3,Dealer,Large,04-01-2013,1,1
+31,Classy Car Sales,30 Isabella St,NULL,Pittsburgh,Pennsylvania,NULL,NULL,PA,3,Wholesaler,Small,04-01-2013,1,0
