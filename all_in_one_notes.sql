@@ -8,7 +8,6 @@ SELECT * FROM "SAMPLE_DATABASE"."PUBLIC"."EMPLOYEE";"SAMPLE_DATABASE"."PUBLIC";
 
 --------------------------------------------------------------------------
 
-
 CREATE or replace table NJ_CONSUMER_COMPLAINTS
 (    DATE_RECEIVED STRING,
      PRODUCT_NAME VARCHAR2(50),
